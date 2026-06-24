@@ -191,12 +191,17 @@ The project highlights proficiency in:
 
 * Hyperparameter optimization
 * Cross-validation experiments
-* Model deployment with Streamlit
 * Real-time Twitter sentiment dashboard
 * Comparison against traditional ML models (Logistic Regression, SVM, Naive Bayes)
 * Fine-tuning larger Transformer models such as BERT and RoBERTa
 
 ---
+
+## Live Demo
+
+Try the deployed Streamlit app here:
+
+[Twitter Sentiment Analysis App](https://twittersentimentanalysis-gom3nyvocbvweycxn9pcdb.streamlit.app/)
 
 ## Author
 
